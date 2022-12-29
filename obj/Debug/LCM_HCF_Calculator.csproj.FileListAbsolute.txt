@@ -1,0 +1,8 @@
+D:\Adobe\Comp 1\VS Saves\LCM_HCF_Calculator\bin\Debug\LCM_HCF_Calculator.exe.config
+D:\Adobe\Comp 1\VS Saves\LCM_HCF_Calculator\bin\Debug\LCM_HCF_Calculator.exe
+D:\Adobe\Comp 1\VS Saves\LCM_HCF_Calculator\bin\Debug\LCM_HCF_Calculator.pdb
+D:\Adobe\Comp 1\VS Saves\LCM_HCF_Calculator\obj\Debug\LCM_HCF_Calculator.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\LCM_HCF_Calculator\obj\Debug\LCM_HCF_Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\LCM_HCF_Calculator\obj\Debug\LCM_HCF_Calculator.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\LCM_HCF_Calculator\obj\Debug\LCM_HCF_Calculator.exe
+D:\Adobe\Comp 1\VS Saves\LCM_HCF_Calculator\obj\Debug\LCM_HCF_Calculator.pdb
